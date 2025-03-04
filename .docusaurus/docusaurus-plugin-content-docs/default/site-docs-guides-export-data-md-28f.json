@@ -1,0 +1,26 @@
+{
+  "id": "guides/export-data",
+  "title": "How to Generate Reports",
+  "description": "This guide explains how to create comprehensive reports for your AV installation projects using SiteReports.",
+  "source": "@site/docs/guides/export-data.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/export-data",
+  "permalink": "/docs/guides/export-data",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How to Manage Tasks",
+    "permalink": "/docs/guides/share-report"
+  },
+  "next": {
+    "title": "API Reference",
+    "permalink": "/docs/reference/api"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "features/analytics",
+  "title": "Asset Management",
+  "description": "The Asset Management section of SiteReports provides powerful tools to help you track equipment throughout the AV installation process.",
+  "source": "@site/docs/features/analytics.md",
+  "sourceDirName": "features",
+  "slug": "/features/analytics",
+  "permalink": "/docs/features/analytics",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Project Management",
+    "permalink": "/docs/features/reports"
+  },
+  "next": {
+    "title": "How to Create a Project",
+    "permalink": "/docs/guides/create-report"
+  }
+}

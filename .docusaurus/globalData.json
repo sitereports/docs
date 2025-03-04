@@ -1,0 +1,78 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "features/analytics",
+              "path": "/docs/features/analytics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "features/dashboard",
+              "path": "/docs/features/dashboard",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "features/reports",
+              "path": "/docs/features/reports",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "guides/create-report",
+              "path": "/docs/guides/create-report",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "guides/export-data",
+              "path": "/docs/guides/export-data",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "guides/share-report",
+              "path": "/docs/guides/share-report",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "quickstart",
+              "path": "/docs/quickstart",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "reference/api",
+              "path": "/docs/reference/api",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "reference/faq",
+              "path": "/docs/reference/faq",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}
