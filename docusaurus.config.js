@@ -8,7 +8,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'SiteReports Documentation',
+  title: 'SiteReports Docs',
   tagline: 'Professional AV Site Reporting Documentation',
   favicon: 'img/favicon.ico',
 
