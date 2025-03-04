@@ -4,8 +4,10 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
+const FeatureList = [
+  {
     title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Img: '/img/easy-to-use.png', // Update to use an image instead of an SVG
     description: (
       <>
         SiteReports was designed to be easy to use. Get started quickly
@@ -35,11 +37,11 @@ const FeatureList = [
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({Svg, Img, title, description}) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
+        {Img ? <img src={Img} className={styles.featureImg} alt={title} /> : <Svg className={styles.featureSvg} role="img" />}
       </div>
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>
