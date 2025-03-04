@@ -4,8 +4,6 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-const FeatureList = [
-  {
     title: 'Easy to Use',
     Img: '/img/easy-to-use.png', // Update to use an image instead of an SVG
     description: (
