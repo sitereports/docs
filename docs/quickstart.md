@@ -42,11 +42,19 @@ This guide will help you get started with SiteReports quickly. Follow these step
 Once your project is created, you'll be taken to the project details page with several modules:
 
 - **Project Overview**: General project details and access to drawing packs
-- **Project Team**: Add relevant contacts (EOS, contractors, customers)
+- **Team Members**: Add relevant contacts (Internal teams, contractors, customers)
 - **Folder Manager**: Create and organize folders for project components
+- **Links**: Add useful URL links such as Sharepoint, Jira, Webex Teams Groups
+- **Tasks**: Create and assign tasks to team members
 - **Asset Tracking**: Track equipment through the installation process
-- **Task Management**: Create and assign tasks to team members
+- **Site Survey**: Manage site surveys at customer sites
+- **Images**: Manage and upload images and photos relevant to the project
 - **Project Files**: Store and organize project documentation
+- **Requests For Information (RFI)**: Track RFI requests with customers and contractors
+- **Expenses**: Store receipts for installation expenses
+- **Quick Notes**: Add quick notes as reminders
+- **Incidents**: Track any on site incidents or accidents
+- **Reports**: Compile project reports daily or as an overview
 
 ## Adding Team Members
 
@@ -75,10 +83,7 @@ If the person doesn't have a SiteReports account, they'll receive an invitation 
 
 1. Select one or more assets from the asset list
 2. Click "Generate QR Codes"
-3. Choose your printing options:
-   - Brady M211 Printer format
-   - PDF for manual printing
-4. Print the QR codes and attach them to your physical assets
+3. Print the QR codes and attach them to your physical assets (Brady Label Printer required - https://www.bradyid.com/label-printers/portable-handheld?attr=device_connectivity__mobile_device_connected)
 
 ## Creating Tasks
 
@@ -92,6 +97,8 @@ If the person doesn't have a SiteReports account, they'll receive an invitation 
 4. Assign the task to a team member
 5. Organize by folder (optional)
 6. Click "Create Task"
+
+Alternatively import multiple tasks from a spreadsheett
 
 ## Generating Your First Report
 
