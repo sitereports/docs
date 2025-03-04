@@ -8,182 +8,181 @@ sidebar_position: 2
 
 ### What is SiteReports?
 
-SiteReports is a comprehensive web application that helps you analyze websites and generate detailed reports about their performance, SEO, accessibility, and best practices.
+SiteReports is a professional AV site reporting platform designed specifically for AV integrators, project managers, and technicians. It helps you manage installation projects, track assets, generate detailed reports, and collaborate with your team—all in one streamlined solution.
 
 ### Who is SiteReports for?
 
-SiteReports is designed for web developers, digital marketers, SEO specialists, UX designers, and business owners who want to understand and improve their websites.
+SiteReports is designed for:
+- **AV Professionals** managing installation projects
+- **Project Managers** coordinating team activities and tracking progress
+- **Field Technicians** documenting installations and testing
+- **System Integrators** organizing project assets and documentation
+- **AV Consultants** creating and sharing professional reports
 
-### How accurate are the reports?
+### How is SiteReports different from other project management tools?
 
-SiteReports uses industry-standard tools and methodologies to ensure high accuracy. Our analysis engines are regularly updated to reflect the latest web standards and best practices.
+Unlike generic project management tools, SiteReports is built specifically for the AV industry. It includes features like QR-based asset tracking, detailed installation reports, and streamlined workflows tailored to AV integrators.
 
-### Can I analyze any website?
+### Can I use SiteReports on mobile devices?
 
-Yes, you can analyze any publicly accessible website. For private websites or those behind authentication, you can use our authentication features to provide access credentials.
+Yes! SiteReports is fully responsive and works on tablets, mobile phones, and desktop devices, ensuring that field technicians and project managers can update project details on the go.
+
+---
 
 ## Account & Billing
 
 ### What plans do you offer?
 
-We offer several plans:
-- **Free**: Basic analysis with limited reports per month
-- **Professional**: More reports, advanced features, and team collaboration
-- **Enterprise**: Custom limits, priority support, and advanced security features
-
-### How many reports can I generate?
-
-The number of reports depends on your plan:
-- **Free**: 5 reports per month
-- **Professional**: 50 reports per month
-- **Enterprise**: Custom limits based on your needs
+We offer multiple plans to fit different needs:
+- **Free**: Basic project management and limited reports
+- **Professional**: Advanced reporting, QR tracking, and team collaboration
+- **Enterprise**: Custom integrations, priority support, and advanced security features
 
 ### Can I upgrade or downgrade my plan?
 
-Yes, you can change your plan at any time. When upgrading, you'll have immediate access to additional features. When downgrading, the changes will take effect at the end of your current billing cycle.
+Yes, you can change your plan at any time. Upgrades take effect immediately, while downgrades apply at the end of your billing cycle.
 
 ### Do you offer refunds?
 
-We offer a 14-day money-back guarantee for new subscriptions. If you're not satisfied with our service, contact our support team within 14 days of your purchase for a full refund.
+We offer a **14-day money-back guarantee** for new subscriptions. If SiteReports isn’t right for you, contact support within 14 days of purchase for a full refund.
+
+---
 
 ## Features & Functionality
 
 ### What types of reports can I generate?
 
-SiteReports offers several report types:
-- Full Site Analysis
-- Performance Reports
-- SEO Reports
-- Accessibility Reports
-- Custom Reports with specific metrics
+SiteReports allows you to generate:
+- **Installation Reports** (Document every step of an AV project)
+- **Asset Tracking Reports** (Monitor equipment from HQ to installation)
+- **Daily Work Logs** (Keep records of site activities and technician progress)
+- **Testing & Commissioning Reports** (Verify AV system performance)
+- **Custom Reports** (Create reports based on your specific needs)
 
-### Can I schedule recurring reports?
+### Can I track assets with QR codes?
 
-Yes, with Professional and Enterprise plans, you can schedule reports to run automatically on a daily, weekly, or monthly basis.
+Yes! SiteReports allows you to:
+- Generate **QR codes** for AV equipment
+- Scan codes to **check asset status** (in storage, in transit, installed)
+- Link assets to **projects, reports, and tasks**
 
 ### How do I share reports with my team or clients?
 
-You can share reports by:
-- Generating shareable links
-- Sending reports via email
-- Exporting reports as PDF, CSV, or HTML
-- Adding team members to your account (Professional and Enterprise plans)
+Reports can be shared via:
+- **Secure links**
+- **Email invitations**
+- **Export options** (PDF, CSV, or HTML)
+- **Team access controls** (Assign permissions for team members)
 
-### Can I white-label the reports?
+### Can I organize my projects with folders?
 
-Yes, white-labeling is available on Enterprise plans. This allows you to remove SiteReports branding and add your own logo and colors to reports.
+Yes, SiteReports has a **flexible folder system**, allowing you to:
+- Organize documents, reports, and assets by project
+- Group related tasks and notes
+- Maintain a structured workflow for large AV installations
+
+### Does SiteReports support offline mode?
+
+Currently, SiteReports requires an internet connection for real-time collaboration, but we are working on **offline data entry** features for future updates.
+
+---
 
 ## Technical Questions
 
-### How does SiteReports analyze websites?
+### How does SiteReports track project progress?
 
-SiteReports uses a combination of:
-- Web crawlers to discover and index pages
-- Performance testing tools to measure loading times
-- Accessibility scanners to check compliance
-- SEO analysis engines to evaluate search optimization
-- Best practices checkers to identify improvement opportunities
+SiteReports provides:
+- **Task Management Tools** (Assign, track, and complete tasks)
+- **Project Status Updates** (Monitor each phase of an AV installation)
+- **Team Collaboration Features** (Comments, file sharing, and notifications)
 
-### Can SiteReports analyze single-page applications (SPAs)?
+### Can I integrate SiteReports with other tools?
 
-Yes, our analysis engine is designed to handle modern web applications, including SPAs built with frameworks like React, Angular, or Vue.js.
+Yes, we offer integrations with:
+- **Google Drive / Dropbox** (Store and access project files)
+- **Slack / Microsoft Teams** (Get notifications and updates)
+- **Trello / Jira** (Sync tasks and workflows)
+- **Custom Webhooks** (Integrate with your internal systems)
 
-### Does SiteReports work with mobile apps?
+### Can I white-label the reports?
 
-SiteReports is designed for web applications and websites. While we can analyze the web components of mobile apps, we don't currently offer native mobile app analysis.
+Yes! White-labeling is available on the **Enterprise plan**, allowing you to customize reports with your **company branding, logo, and colors**.
 
-### What browsers and devices do you test on?
-
-We simulate tests on:
-- Desktop: Chrome, Firefox, Safari, and Edge
-- Mobile: iOS Safari and Android Chrome
-- Various device sizes and screen resolutions
-- Different connection speeds (3G, 4G, etc.)
+---
 
 ## Troubleshooting
 
 ### My report is taking a long time to generate. Is this normal?
 
-Report generation time depends on:
-- The size and complexity of the website
-- The number of pages being analyzed
-- The type of report you're generating
-- Current system load
+Report generation speed depends on:
+- **Project size** (Number of assets, tasks, and notes)
+- **Internet speed** (Uploading large images and documents)
+- **System load** (High traffic may cause minor delays)
 
-Most reports complete within 5-15 minutes, but larger sites may take longer.
+Most reports are generated within **5-10 minutes**.
 
-### Why are some pages on my site not being analyzed?
+### Why are some project files missing?
 
-Pages might be skipped if they:
-- Are blocked by robots.txt
-- Require authentication that wasn't provided
-- Are dynamically generated with JavaScript that our crawler couldn't execute
-- Exceed your plan's page limit
-- Have URLs that match exclusion patterns you've set
+Possible reasons:
+- The file was deleted by another team member
+- The project has **restricted permissions**
+- The file was uploaded incorrectly or is too large
+- There was a temporary **server sync issue** (try reloading the page)
 
-### How do I interpret the scores in my report?
+### How do I reset my password?
 
-Our scoring system uses a 0-100 scale:
-- **90-100**: Excellent - Your site excels in this category
-- **70-89**: Good - Your site performs well but has room for improvement
-- **50-69**: Average - Several issues need attention
-- **30-49**: Poor - Significant problems that require addressing
-- **0-29**: Critical - Urgent issues that need immediate attention
+You can reset your password by clicking **"Forgot Password?"** on the login page. If you’re having trouble, contact **support@sitereports.live**.
 
-### Can I export raw data for further analysis?
-
-Yes, you can export report data in CSV or JSON format for further analysis in other tools.
-
-## Integration & API
-
-### Does SiteReports offer an API?
-
-Yes, we provide a comprehensive API that allows you to integrate SiteReports functionality into your own applications and workflows. See our [API Reference](api) for details.
-
-### Can I integrate SiteReports with other tools?
-
-Yes, we offer integrations with:
-- Google Analytics
-- Google Search Console
-- Slack
-- Microsoft Teams
-- Trello
-- Jira
-- Custom webhooks for your own integrations
-
-### Is there an SDK for developers?
-
-Yes, we provide official SDK libraries for:
-- JavaScript/Node.js
-- Python
-- PHP
-- Ruby
+---
 
 ## Security & Privacy
 
 ### How secure is my data?
 
 We take security seriously:
-- All data is encrypted in transit and at rest
-- We use industry-standard security practices
-- Regular security audits and penetration testing
-- SOC 2 compliance (Enterprise plan)
+- **Encrypted storage** (All data is encrypted at rest and in transit)
+- **Role-based access control** (Restrict permissions for different team members)
+- **Regular security audits** to ensure compliance with industry standards
 
-### Do you store the websites I analyze?
+### Who can access my projects?
 
-We store report data but not complete copies of analyzed websites. We retain only the necessary information to generate and display your reports.
-
-### Who can access my reports?
-
-Only you and users you explicitly share reports with can access your data. Our staff cannot access your reports unless you grant permission for troubleshooting purposes.
+Only users you invite can access your project data. **Admins** have control over team permissions.
 
 ### Can I delete my data?
 
-Yes, you can delete individual reports or your entire account at any time through your account settings.
+Yes, you can:
+- Delete individual reports and assets
+- Remove an entire project
+- Permanently delete your account
+
+---
+
+## Integration & API
+
+### Does SiteReports offer an API?
+
+Yes! Our API allows you to:
+- **Automate report generation**
+- **Sync asset tracking data**
+- **Integrate SiteReports with your internal systems**
+
+Visit our [API Documentation](https://docs.sitereports.live/api) for more details.
+
+### Is there an SDK for developers?
+
+Yes, we provide SDKs for:
+- **JavaScript / Node.js**
+- **Python**
+- **PHP**
+- **Ruby**
+
+These SDKs allow easy integration of SiteReports into your existing tools and workflows.
+
+---
 
 ## Still Have Questions?
 
-If you couldn't find the answer to your question, please:
+If you couldn’t find the answer to your question, you can:
 - Check our [detailed documentation](https://docs.sitereports.live)
 - Contact our [support team](https://sitereports.live/contact)
 - Join our [community forum](https://community.sitereports.live)
