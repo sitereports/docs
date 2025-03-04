@@ -1,0 +1,17 @@
+{
+  "id": "guides/team-access",
+  "title": "Team Access Guide",
+  "description": "Learn how to manage team members, roles, and permissions in your AV installation projects.",
+  "source": "@site/docs/guides/team-access.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/team-access",
+  "permalink": "/docs/guides/team-access",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "features/folders",
+  "title": "Folder Management",
+  "description": "The Folder Manager is a central organizational system that helps you structure and manage all aspects of your AV installation projects.",
+  "source": "@site/docs/features/folders.md",
+  "sourceDirName": "features",
+  "slug": "/features/folders",
+  "permalink": "/docs/features/folders",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  }
+}

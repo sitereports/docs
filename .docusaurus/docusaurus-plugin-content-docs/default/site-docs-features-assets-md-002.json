@@ -1,0 +1,17 @@
+{
+  "id": "features/assets",
+  "title": "Asset Management",
+  "description": "The Asset Management module in SiteReports provides powerful tools to help you track equipment throughout the AV installation process.",
+  "source": "@site/docs/features/assets.md",
+  "sourceDirName": "features",
+  "slug": "/features/assets",
+  "permalink": "/docs/features/assets",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  }
+}

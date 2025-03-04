@@ -1,0 +1,17 @@
+{
+  "id": "guides/custom-reports",
+  "title": "Custom Reports Guide",
+  "description": "Learn how to create and manage custom reports for your AV installation projects.",
+  "source": "@site/docs/guides/custom-reports.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/custom-reports",
+  "permalink": "/docs/guides/custom-reports",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9
+  }
+}

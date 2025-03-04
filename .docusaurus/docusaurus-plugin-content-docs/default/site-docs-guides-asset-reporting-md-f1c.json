@@ -1,0 +1,17 @@
+{
+  "id": "guides/asset-reporting",
+  "title": "Asset Reporting Guide",
+  "description": "Learn how to create comprehensive asset reports for tracking, documentation, and client deliverables.",
+  "source": "@site/docs/guides/asset-reporting.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/asset-reporting",
+  "permalink": "/docs/guides/asset-reporting",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  }
+}

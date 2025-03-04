@@ -1,0 +1,17 @@
+{
+  "id": "guides/data-visualization",
+  "title": "Data Visualization Guide",
+  "description": "Learn how to create and use visual representations of your project data for better insights and reporting.",
+  "source": "@site/docs/guides/data-visualization.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/data-visualization",
+  "permalink": "/docs/guides/data-visualization",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 12,
+  "frontMatter": {
+    "sidebar_position": 12
+  }
+}

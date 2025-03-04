@@ -1,0 +1,17 @@
+{
+  "id": "guides/qr-codes",
+  "title": "QR Code Best Practices",
+  "description": "Learn how to effectively use QR codes in your AV installation projects for efficient asset tracking and management.",
+  "source": "@site/docs/guides/qr-codes.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/qr-codes",
+  "permalink": "/docs/guides/qr-codes",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  }
+}

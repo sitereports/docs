@@ -1,0 +1,17 @@
+{
+  "id": "guides/asset-workflow",
+  "title": "Asset Tracking Workflow",
+  "description": "Learn the complete workflow for tracking assets from initial inspection through installation and testing.",
+  "source": "@site/docs/guides/asset-workflow.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/asset-workflow",
+  "permalink": "/docs/guides/asset-workflow",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  }
+}

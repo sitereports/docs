@@ -1,0 +1,17 @@
+{
+  "id": "guides/task-management",
+  "title": "Task Management Guide",
+  "description": "Learn how to effectively create, assign, and track tasks throughout your AV installation projects.",
+  "source": "@site/docs/guides/task-management.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/task-management",
+  "permalink": "/docs/guides/task-management",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  }
+}

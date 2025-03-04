@@ -1,7 +1,7 @@
 {
   "id": "guides/export-data",
-  "title": "How to Generate Reports",
-  "description": "This guide explains how to create comprehensive reports for your AV installation projects using SiteReports.",
+  "title": "Export Data Guide",
+  "description": "Learn how to export and manage data from your AV installation projects in various formats.",
   "source": "@site/docs/guides/export-data.md",
   "sourceDirName": "guides",
   "slug": "/guides/export-data",
@@ -10,9 +10,9 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "sidebarPosition": 3,
+  "sidebarPosition": 13,
   "frontMatter": {
-    "sidebar_position": 3
+    "sidebar_position": 13
   },
   "sidebar": "tutorialSidebar",
   "previous": {

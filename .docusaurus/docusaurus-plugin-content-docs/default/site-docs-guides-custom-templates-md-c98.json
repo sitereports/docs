@@ -1,0 +1,17 @@
+{
+  "id": "guides/custom-templates",
+  "title": "Custom Templates Guide",
+  "description": "Learn how to create and manage templates for projects, reports, and workflows in SiteReports.",
+  "source": "@site/docs/guides/custom-templates.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/custom-templates",
+  "permalink": "/docs/guides/custom-templates",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10
+  }
+}

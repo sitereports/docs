@@ -1,0 +1,17 @@
+{
+  "id": "guides/create-project",
+  "title": "Project Creation Guide",
+  "description": "Learn how to set up new AV installation projects in SiteReports effectively.",
+  "source": "@site/docs/guides/create-project.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/create-project",
+  "permalink": "/docs/guides/create-project",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  }
+}

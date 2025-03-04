@@ -1,62 +1,153 @@
 {
-  "/docs-02e": {
-    "__comp": "5e95c892",
+  "/__docusaurus/debug-5ff": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "aba21aa0"
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
-  "/docs-859": {
-    "__comp": "a7bd4aaa",
-    "__props": "0058b4c6"
+  "/__docusaurus/debug/config-5ba": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
   },
-  "/docs-e9c": {
-    "__comp": "a94703ab"
+  "/__docusaurus/debug/content-a2b": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    },
+    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
+  },
+  "/__docusaurus/debug/globalData-c3c": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/metadata-156": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/registry-88c": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/routes-000": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/docs-df8": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---docsaba-d7c"
+    }
+  },
+  "/docs-816": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---docs-005-788"
+  },
+  "/docs-af8": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/features/analytics-b97": {
-    "__comp": "17896441",
-    "content": "c5c5003c"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-features-analyticsc-5-c-c40"
+  },
+  "/docs/features/assets-dc7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-features-assets-002-4f9"
   },
   "/docs/features/dashboard-258": {
-    "__comp": "17896441",
-    "content": "72e9da6a"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-features-dashboard-72-e-d7c"
+  },
+  "/docs/features/folders-b7c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-features-folders-27-d-ee5"
   },
   "/docs/features/reports-83b": {
-    "__comp": "17896441",
-    "content": "ee8d6646"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-features-reportsee-8-aac"
+  },
+  "/docs/guides/asset-reporting-a6f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-guides-asset-reportingf-1-c-40e"
+  },
+  "/docs/guides/asset-workflow-e30": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-guides-asset-workflow-005-fbf"
+  },
+  "/docs/guides/create-project-f75": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-guides-create-project-9-ad-93f"
   },
   "/docs/guides/create-report-58a": {
-    "__comp": "17896441",
-    "content": "60e91784"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-guides-create-report-60-e-8ed"
+  },
+  "/docs/guides/custom-reports-d13": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-guides-custom-reportsb-22-4de"
+  },
+  "/docs/guides/custom-templates-8fd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-guides-custom-templatesc-98-494"
+  },
+  "/docs/guides/data-visualization-2ea": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-guides-data-visualization-79-f-0bb"
   },
   "/docs/guides/export-data-2a6": {
-    "__comp": "17896441",
-    "content": "28f8a618"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-guides-export-data-28-f-d05"
+  },
+  "/docs/guides/qr-codes-0a3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-guides-qr-codes-730-2bd"
   },
   "/docs/guides/share-report-e2f": {
-    "__comp": "17896441",
-    "content": "893b9170"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-guides-share-report-893-cce"
+  },
+  "/docs/guides/system-integration-412": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-guides-system-integratione-17-8bc"
+  },
+  "/docs/guides/task-management-8d7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-guides-task-management-279-7a8"
+  },
+  "/docs/guides/team-access-7db": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-guides-team-access-277-d7f"
   },
   "/docs/intro-61d": {
-    "__comp": "17896441",
-    "content": "0e384e19"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-intro-0-e-3-be1"
   },
   "/docs/quickstart-79e": {
-    "__comp": "17896441",
-    "content": "8070e160"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-quickstart-807-6cd"
   },
   "/docs/reference/api-64a": {
-    "__comp": "17896441",
-    "content": "b95ea484"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-reference-apib-95-756"
   },
   "/docs/reference/faq-c4b": {
-    "__comp": "17896441",
-    "content": "65608a03"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-reference-faq-656-a13"
   },
   "/-2e1": {
-    "__comp": "c4f5d8e4",
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
     "__context": {
-      "plugin": "a7456010"
+      "plugin": "plugin---a-74-9d6"
     },
-    "config": "5e9f5e1a"
+    "config": "config---5-e-9-4f3"
   }
 }

@@ -16,9 +16,17 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "features/assets",
+              "path": "/docs/features/assets"
+            },
+            {
               "id": "features/dashboard",
               "path": "/docs/features/dashboard",
               "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "features/folders",
+              "path": "/docs/features/folders"
             },
             {
               "id": "features/reports",
@@ -26,9 +34,33 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "guides/asset-reporting",
+              "path": "/docs/guides/asset-reporting"
+            },
+            {
+              "id": "guides/asset-workflow",
+              "path": "/docs/guides/asset-workflow"
+            },
+            {
+              "id": "guides/create-project",
+              "path": "/docs/guides/create-project"
+            },
+            {
               "id": "guides/create-report",
               "path": "/docs/guides/create-report",
               "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "guides/custom-reports",
+              "path": "/docs/guides/custom-reports"
+            },
+            {
+              "id": "guides/custom-templates",
+              "path": "/docs/guides/custom-templates"
+            },
+            {
+              "id": "guides/data-visualization",
+              "path": "/docs/guides/data-visualization"
             },
             {
               "id": "guides/export-data",
@@ -36,9 +68,25 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "guides/qr-codes",
+              "path": "/docs/guides/qr-codes"
+            },
+            {
               "id": "guides/share-report",
               "path": "/docs/guides/share-report",
               "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "guides/system-integration",
+              "path": "/docs/guides/system-integration"
+            },
+            {
+              "id": "guides/task-management",
+              "path": "/docs/guides/task-management"
+            },
+            {
+              "id": "guides/team-access",
+              "path": "/docs/guides/team-access"
             },
             {
               "id": "intro",
