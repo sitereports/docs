@@ -17,7 +17,7 @@ const FeatureList = [
   },
   {
     title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Img: '/img/focus.png', // Update to use an image instead of an SVG
     description: (
       <>
         SiteReports lets you focus on your sites, while we handle the reporting.
@@ -27,7 +27,7 @@ const FeatureList = [
   },
   {
     title: 'Powerful Analytics',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Img: '/img/analytics.png', // Update to use an image instead of an SVG
     description: (
       <>
         Our analytics tools help you understand your site data better.
